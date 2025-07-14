@@ -8,7 +8,6 @@
             <img alt="Comet Opik logo" src="https://raw.githubusercontent.com/comet-ml/opik/refs/heads/main/apps/opik-documentation/documentation/static/img/opik-logo.svg" width="200" />
         </picture></a>
         <br>
-        Opik
     </div>
 </h1>
 <h2 align="center" style="border-bottom: none">Open-source LLM evaluation platform</h2>
